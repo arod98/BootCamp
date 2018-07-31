@@ -1,5 +1,5 @@
 # BootCamp
-Computing Boot Camp for (new and old) KIPAC members and physics graduate students at large.
+Computing Boot Camp for (new and old) KIPAC members and physics graduate students at large. Hopefully this new change goes through.
 
 Schedule can be found on the [website](https://kipac.github.io/BootCamp).
 
